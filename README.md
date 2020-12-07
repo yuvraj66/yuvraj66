@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...ANS
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...srijald15@gmail.com
-- ⚡ Fun fact: ... I always try learn something new :)
+- ⚡ Fun fact: ... I always try to learn something new :)
