@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Youtube
-- 🌱 I’m currently learning ...Flutter
+- 🌱 I’m currently learning ...Flutter,React
 - 👯 I’m looking to collaborate on ...Flutter
 - 🤔 I’m looking for help with ...ANS
 - 💬 Ask me about ...Anything
